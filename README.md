@@ -1,0 +1,1 @@
+# Average_n_number_in_c-
